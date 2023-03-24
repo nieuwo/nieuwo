@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nieuwo</h1>
-<h3 align="center">A Seasoned Software Engineering Manager and a Cloud ☁ Enthusiast</h3>
+<h3 align="center">A Seasoned Software Engineering Manager and a Cloud Solution Architect ☁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashpackingnerd&label=Profile%20views&color=0e75b6&style=flat" alt="flashpackingnerd" /> </p>
 
 
 - 🌱 I’m always learning.
 
-- 💬 Ask me about **AWS or .NET Core**
+- 💬 Ask me about **Azure, AWS or .NET Core**
+
+<a href="https://www.credly.com/badges/e3240b93-ca89-4823-b194-947e119dd717" target="_blank" rel="noreferrer">
+ <img src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
+</a>
+
 <a href="https://www.credly.com/badges/63046268-2ac0-49c1-941d-0257c4467cff/public_url" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
 </a>
