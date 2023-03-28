@@ -8,27 +8,22 @@
 
 - 💬 Ask me about **Azure, AWS or .NET Core**
 
-<a href="https://www.credly.com/badges/e3240b93-ca89-4823-b194-947e119dd717" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
 </a>
-
-<a href="https://www.credly.com/badges/63046268-2ac0-49c1-941d-0257c4467cff/public_url" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
 </a>
-
-<a href="https://www.credly.com/badges/59127aef-50a5-4670-bd60-85194059405c/public_url" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"/>
 </a>
-
-<a href="https://www.credly.com/badges/30592d5a-4dcf-4637-a0eb-beab5fddf754/public_url" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110"/>
 </a>
-
-<a href="https://www.credly.com/badges/9b13386a-4823-4edc-b0b0-fc7c6a013257/public_url" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" height="110"/>
 </a>
-
-<a href="https://www.credly.com/badges/a430d468-773b-4eb8-9c86-0c719000331f/public_url" target="_blank" rel="noreferrer">
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
  <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="110" height="110"/>
 </a>
 
