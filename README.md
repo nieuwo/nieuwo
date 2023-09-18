@@ -7,24 +7,29 @@
 - 🌱 I’m always learning.
 
 - 💬 Ask me about **Azure, AWS or .NET Core**
-
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
+<img src="https://images.credly.com/size/680x680/images/50b366b1-43d9-4b09-847d-761a6268fd5c/image.png" alt="TOGAF® Standard 10" width="110" height="110"/>
 </a>
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
+ <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="110" height="110"/>
 </a>
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"/>
+ <img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Azure Developer Associate" width="110" height="110"/>
 </a>
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110"/>
+ <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
 </a>
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" height="110"/>
+ <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"/>
 </a>
 <a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
- <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="110" height="110"/>
+ <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110"/>
+</a>
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
+ <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" height="110"/>
+</a>
+<a href="https://github.com/nieuwo" target="_blank" rel="noreferrer">
+ <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="110" height="110"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
